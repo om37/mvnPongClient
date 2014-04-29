@@ -12,4 +12,9 @@ public class App
     {
         new Client().start();
     }
+    
+    public int ret(int i)
+    {
+    	return i;
+    }
 }
